@@ -1,6 +1,6 @@
 # Legacy Skin Packs
 
-Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.com/mod/legacy4j) and [LegacySkins](https://modrinth.com/mod/legacy-skins) that aims to bring back most the Skin Packs from the Legacy Console Editions of Minecraft. Original textures by 4J Studios.
+Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.com/mod/legacy4j) and [LegacySkins](https://modrinth.com/mod/legacy-skins) that aims to bring back all the Skin Packs from the Legacy Console Editions of Minecraft.
 
 ## Currently done:
 
@@ -64,14 +64,14 @@ Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.c
 |Mini Game Heroes Skin Pack|❌|✅|
 |Mini Game Masters Skin Pack|❌|✅|
 |Chinese Mythology Mash-up pack|❌|✅|
-|Fallout Mash-up pack|✅|✅|
+|Fallout Mash-up pack|❌|[✖️](https://modrinth.com/resourcepack/fallout-mashup)|
 |Greek Mythology Mash-up pack|❌|✅|
 |Skyrim Mash-up pack|✅|✅|
 |Adventure Time Mash-up pack|❌|✅|
-|Halo Mash-up pack|❌|✅|
-|Super Mario Mash-up pack|✅|✅|
+|Halo Mash-up pack|❌|✖️|
+|Super Mario Mash-up pack|❌|[✖️](https://cdn.discordapp.com/attachments/1275454154260611205/1277491564226150421/MarioSkins.zip?ex=66f591fb&is=66f4407b&hm=40dda1e6138b2cf1021dcd0a599310418a740b23770ff06f42c8d8a844cda61d&)|
 |Mass Effect Mash-up pack|✅|✅|
-|Egyptian Mythology Mash-up pack|✅|✅|
+|Egyptian Mythology Mash-up pack|❌|✅|
 |Little Big Planet Mash-up pack|✅|✅|
 |Festive 2016 Mash-up|✅|✅|
 |Pirates of the Caribbean Mash-up pack|❌|✅|
@@ -101,14 +101,10 @@ Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.c
 
 **SpawnOfZap:** For recreating Skin packs Biome Settlers 1, Summer of Arcade.
 
-**Raiden:** For recreating Skin packs Minecraft 2nd, 3rd & 4th Birthday, Campfire Tales, 2nd Birthday - PS, Villains, Final Fantasy XV.
+**Raiden:** For recreating Skin packs Minecraft 2nd & 3rd Birthday, Campfire Tales, 2nd Birthday - PS3, Villains, Final Fantasy XV.
 
 **Lyn:** For recreating Skyrim Mash-Up, LittleBigPlanet Mash-Up, Mass Effect Mash-Up, Simpsons, Power Rangers, Halloween 2015 Mash-Up, Star Wars Classic, Star Wars Rebels, Star Wars Prequel, Star Wars Sequel, Solo: A Star Wars Story, Marvel Avengers, Festive 2012, Festive 2014 Mash-Up, Classic Skin packs 1, 2, 3, 4, 5, and 6, Minecon 2015 Pack.
 
 **Pretzel:** For recreating Skin pack MINECON Earth 2017.
 
 **Lewis:** For recreating Skin packs Biome Settlers 1, Egyptian Mythology.
-
-**chillyzone:** For recreating Skin pack Super Mario.
-
-**RedRain0o0:** For recreating Skin packs from Fallout Mash-up, (WIP)Halo Mash-up.
