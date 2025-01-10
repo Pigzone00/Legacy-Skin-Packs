@@ -1099,12 +1099,6 @@
         "type": "skin",
         "skins": [
             {
-                "model": "legacy_skinpacks:skinpacks/birthday_2/partyredspartan.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/birthday_2/partybluespartan.cpmmodel"
-            },
-            {
                 "model": "legacy_skinpacks:skinpacks/birthday_2/partyplasticsteve.cpmmodel"
             },
             {
@@ -1117,6 +1111,7 @@
    	        "model": "legacy_skinpacks:skinpacks/birthday_2/witch.cpmmodel"
             },
             {
+
                 "model": "legacy_skinpacks:skinpacks/birthday_2/partywitherskeleton.cpmmodel"
             },
             {
@@ -1141,117 +1136,40 @@
 	    	"model": "legacy_skinpacks:skinpacks/birthday_2/partydust.cpmmodel"
 	    },
 	    {
-	    	"model": "legacy_skinpacks:skinpacks/birthday_2/jackofblades.cpmmodel"
+	    	"model": "legacy_skinpacks:skinpacks/birthday_2/ratchet.cpmmodel"
 	    },
 	    {
-	    	"model": "legacy_skinpacks:skinpacks/birthday_2/herochicken.cpmmodel"
+	    	"model": "legacy_skinpacks:skinpacks/birthday_2/clank.cpmmodel"
 	    },
 	    {
-	    	"model": "legacy_skinpacks:skinpacks/birthday_2/horstachio.cpmmodel"
+	    	"model": "legacy_skinpacks:skinpacks/birthday_2/sackboy.cpmmodel"
 	    },
 	    {
-	    	"model": "legacy_skinpacks:skinpacks/birthday_2/pretztail.cpmmodel"
+	    	"model": "legacy_skinpacks:skinpacks/birthday_2/sackgirl.cpmmodel"
 	    },
 	    {
-	    	"model": "legacy_skinpacks:skinpacks/birthday_2/fudgehog.cpmmodel"
+	    	"model": "legacy_skinpacks:skinpacks/birthday_2/slycooper.cpmmodel"
 	    },
 	    {
-	    	"model": "legacy_skinpacks:skinpacks/birthday_2/conker.cpmmodel"
+	    	"model": "legacy_skinpacks:skinpacks/birthday_2/carmelitamontoyafox.cpmmodel"
 	    },
 	    {
-	    	"model": "legacy_skinpacks:skinpacks/birthday_2/conkerlr.cpmmodel"
+	    	"model": "legacy_skinpacks:skinpacks/birthday_2/bentley.cpmmodel"
 	    },
 	    {
-	    	"model": "legacy_skinpacks:skinpacks/birthday_2/banjoandkazooie.cpmmodel"
+	    	"model": "legacy_skinpacks:skinpacks/birthday_2/kratos.cpmmodel"
 	    },
 	    {
-	    	"model": "legacy_skinpacks:skinpacks/birthday_2/kazooie.cpmmodel"
+	    	"model": "legacy_skinpacks:skinpacks/birthday_2/zeus.cpmmodel"
 	    },
 	    {
-	    	"model": "legacy_skinpacks:skinpacks/birthday_2/gruntilda.cpmmodel"
+	    	"model": "legacy_skinpacks:skinpacks/birthday_2/gaia.cpmmodel"
 	    },
 	    {
-	    	"model": "legacy_skinpacks:skinpacks/birthday_2/partygrunt.cpmmodel"
-	    }
-
-        ]
-    },
-    "legacy_skinpacks:ps_birthday_2": {
-        "icon": "legacy_skinpacks:textures/skinpack_icons/ps_birthday_2.png",
-        "type": "skin",
-        "skins": [
-            {
-                "model": "legacy_skinpacks:skinpacks/ps_birthday_2/partyplasticsteve.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/ps_birthday_2/partyplasticcreeper.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/ps_birthday_2/partyzombievillager.cpmmodel"
-            },
-            {
-   	        "model": "legacy_skinpacks:skinpacks/ps_birthday_2/witch.cpmmodel"
-            },
-            {
-
-                "model": "legacy_skinpacks:skinpacks/ps_birthday_2/partywitherskeleton.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/ps_birthday_2/wither.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/ps_birthday_2/partyredcat.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/ps_birthday_2/partyblackcat.cpmmodel"
+	    	"model": "legacy_skinpacks:skinpacks/birthday_2/red.cpmmodel"
 	    },
 	    {
-	    	"model": "legacy_skinpacks:skinpacks/ps_birthday_2/partysiamesecat.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/ps_birthday_2/partyocelot.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/ps_birthday_2/partyfidget.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/ps_birthday_2/partydust.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/ps_birthday_2/ratchet.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/ps_birthday_2/clank.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/ps_birthday_2/sackboy.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/ps_birthday_2/sackgirl.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/ps_birthday_2/slycooper.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/ps_birthday_2/carmelitamontoyafox.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/ps_birthday_2/bentley.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/ps_birthday_2/kratos.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/ps_birthday_2/zeus.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/ps_birthday_2/gaia.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/ps_birthday_2/red.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/ps_birthday_2/white.cpmmodel"
+	    	"model": "legacy_skinpacks:skinpacks/birthday_2/white.cpmmodel"
 	    }
         ]
     },
