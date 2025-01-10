@@ -69,7 +69,7 @@ Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.c
 |Skyrim Mash-up pack|✅|✅|
 |Adventure Time Mash-up pack|❌|✅|
 |Halo Mash-up pack|❌|✖️|
-|Super Mario Mash-up pack|❌|[✖️](https://cdn.discordapp.com/attachments/1275454154260611205/1277491564226150421/MarioSkins.zip?ex=66f591fb&is=66f4407b&hm=40dda1e6138b2cf1021dcd0a599310418a740b23770ff06f42c8d8a844cda61d&)|
+|Super Mario Mash-up pack|❌|[✖️](https://modrinth.com/resourcepack/super-mario-mash-up)|
 |Mass Effect Mash-up pack|✅|✅|
 |Egyptian Mythology Mash-up pack|❌|✅|
 |Little Big Planet Mash-up pack|✅|✅|
