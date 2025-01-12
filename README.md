@@ -99,10 +99,10 @@ Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.c
 
 **Raiden:** For recreating Skin packs Minecraft 2nd & 3rd Birthday, Campfire Tales, 2nd Birthday - PS3, Villains, Final Fantasy XV.
 
-**Lyn:** For recreating Skyrim Mash-Up, LittleBigPlanet Mash-Up, Mass Effect Mash-Up, Simpsons, Power Rangers, Halloween 2015 Mash-Up, Star Wars Classic, Star Wars Rebels, Star Wars Prequel, Star Wars Sequel, Solo: A Star Wars Story, Marvel Avengers, Marvel Spider-Man, Marvel Guardians of the Galaxy, Adventure Time Festive 2012, Festive 2014 Mash-Up, Classic Skin packs 1, 2, 3, 4, 5, and 6, Minecon 2015 Pack.
+**Lyn:** For recreating Skyrim Mash-Up, LittleBigPlanet Mash-Up, Mass Effect Mash-Up, Simpsons, Power Rangers, Halloween 2015 Mash-Up, Star Wars Classic, Star Wars Rebels, Star Wars Prequel, Star Wars Sequel, Solo: A Star Wars Story, Marvel Avengers, Marvel Spider-Man, Marvel Guardians of the Galaxy, Adventure Time, Festive 2012, Festive 2014 Mash-Up, Classic Skin packs 1, 2, 3, 4, 5, and 6, Minecon 2015 Pack.
 
 **Pretzel:** For recreating Skin pack MINECON Earth 2017.
 
 **Lewis:** For recreating Skin packs Biome Settlers 1, Egyptian Mythology.
 
-**UltiMario:** For fixing issues with animation from the Battle & Beasts 2 skin pack.
+**UltiMario:** For recreating Skin pack Minecon 2016 & fixing issues with animation from the Battle & Beasts 2 skin pack.
