@@ -157,6 +157,9 @@
                 "model": "legacy_skinpacks:skinpacks/sp1/madisonpaige.cpmmodel"
             },
             {
+                "model": "legacy_skinpacks:skinpacks/sp1/normanjayden.cpmmodel"
+            },
+            {
                 "model": "legacy_skinpacks:skinpacks/sp1/scottshelby.cpmmodel"
             },
             {
@@ -1028,7 +1031,93 @@
             }
         ]
     },
-
+   "legacy_skinpacks:birthday_4":{
+      "icon":"legacy_skinpacks:textures/skinpack_icons/birthday_4.png",
+      "type":"skin",
+      "skins":[
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/chrisvdk.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/paddy.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/anne.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/richard.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/stuart.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/david.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/kate.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/michael.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/steven.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/mark.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/iain.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/thomas.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/james.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/vince.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/george.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/rory.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/tom.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/julie.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/alan.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/donald.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/chris.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/sidney.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/jonathan.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/scott.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/irongolembattler.cpmmodel"
+         },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/irongolemtumbler.cpmmodel"
+		 },
+         {
+            "model":"legacy_skinpacks:skinpacks/birthday_4/irongolemglider.cpmmodel"
+		 }
+       ]
+	},
     "legacy_skinpacks:birthday_3": {
         "icon": "legacy_skinpacks:textures/skinpack_icons/birthday_3.png",
         "type": "skin",
@@ -1049,7 +1138,7 @@
                 "model": "legacy_skinpacks:skinpacks/birthday_3/mattis.cpmmodel"
             },
             {
-   	        "model": "legacy_skinpacks:skinpacks/birthday_3/henrik.cpmmodel"
+				"model": "legacy_skinpacks:skinpacks/birthday_3/henrik.cpmmodel"
             },
             {
 
@@ -1063,37 +1152,37 @@
             },
             {
                 "model": "legacy_skinpacks:skinpacks/birthday_3/johan.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/birthday_3/lydia.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/birthday_3/karin.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/birthday_3/kristoffer.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/birthday_3/nathan.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/birthday_3/erik.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/birthday_3/tommaso.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/birthday_3/redstone.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/birthday_3/endcreature.cpmmodel"
-	    },
-	    {
-	    	"model": "legacy_skinpacks:skinpacks/birthday_3/sandstone.cpmmodel"
-	    }
+			},
+			{
+				"model": "legacy_skinpacks:skinpacks/birthday_3/lydia.cpmmodel"
+			},
+			{
+				"model": "legacy_skinpacks:skinpacks/birthday_3/karin.cpmmodel"
+			},
+			{
+				"model": "legacy_skinpacks:skinpacks/birthday_3/kristoffer.cpmmodel"
+			},
+			{
+				"model": "legacy_skinpacks:skinpacks/birthday_3/nathan.cpmmodel"
+			},
+			{
+				"model": "legacy_skinpacks:skinpacks/birthday_3/erik.cpmmodel"
+			},
+			{
+				"model": "legacy_skinpacks:skinpacks/birthday_3/tommaso.cpmmodel"
+			},
+			{
+				"model": "legacy_skinpacks:skinpacks/birthday_3/redstone.cpmmodel"
+			},
+			{
+				"model": "legacy_skinpacks:skinpacks/birthday_3/endcreature.cpmmodel"
+			},
+			{
+				"model": "legacy_skinpacks:skinpacks/birthday_3/sandstone.cpmmodel"
+			}
 
-        ]
-    },
+			]
+		},
     "legacy_skinpacks:birthday_2": {
         "icon": "legacy_skinpacks:textures/skinpack_icons/birthday_2.png",
         "type": "skin",
