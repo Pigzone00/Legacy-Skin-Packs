@@ -23,24 +23,20 @@ Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.c
 |Skin pack 4|✅|✅|
 |Skin pack 5|✅|✅|
 |Skin pack 6|✅|✅|
-|PlayStation Skin pack 1|✅|✅|
-|PlayStation Skin pack 2|✅|✅|
-|PlayStation Skin pack 3|✅|✅|
 |MINECON 2015 Skin pack|✅|✅|
-|MINECON 2016 Skin pack|❌|✅|
+|MINECON 2016 Skin pack|✅|✅|
 |MINECON Earth 2017 Skin Pack|✅|✅|
 |Minecraft 1st Birthday Skin pack|✅|✅|
 |Minecraft 2nd Birthday Skin pack|✅|✅|
 |Minecraft 3rd Birthday Skin pack|✅|✅|
 |Minecraft 4th Birthday Skin pack|❌|✅|
 |Minecraft 5th Birthday Skin pack|❌|✅|
-|PlayStation 2nd Birthday Skin pack|✅|✅|
 |Summer of Arcade Promotional Skin Pack|✅|✅|
-|Halloween Skin pack|❌|✅|
+|Halloween Skin pack|✅|✅|
 |Festive Skin pack|✅|✅|
 |Marvel Avengers Skin pack|✅|✅|
-|Marvel Spider-Man Skin pack|❌|✅|
-|Marvel Guardians of the Galaxy Skin pack|❌|✅|
+|Marvel Spider-Man Skin pack|✅|✅|
+|Marvel Guardians of the Galaxy Skin pack|✅|✅|
 |Doctor Who Skins Volume I Skin pack|❌|✅|
 |Doctor Who Skins Volume II Skin Pack|❌|✅|
 |The Simpsons Skin pack|✅|✅|
@@ -67,11 +63,11 @@ Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.c
 |Fallout Mash-up pack|❌|[✖️](https://modrinth.com/resourcepack/fallout-mashup)|
 |Greek Mythology Mash-up pack|❌|✅|
 |Skyrim Mash-up pack|✅|✅|
-|Adventure Time Mash-up pack|❌|✅|
+|Adventure Time Mash-up pack|✅|✅|
 |Halo Mash-up pack|❌|✖️|
 |Super Mario Mash-up pack|❌|[✖️](https://modrinth.com/resourcepack/super-mario-mash-up)|
 |Mass Effect Mash-up pack|✅|✅|
-|Egyptian Mythology Mash-up pack|❌|✅|
+|Egyptian Mythology Mash-up pack|✅|✅|
 |Little Big Planet Mash-up pack|✅|✅|
 |Festive 2016 Mash-up|✅|✅|
 |Pirates of the Caribbean Mash-up pack|❌|✅|
@@ -103,7 +99,7 @@ Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.c
 
 **Raiden:** For recreating Skin packs Minecraft 2nd & 3rd Birthday, Campfire Tales, 2nd Birthday - PS3, Villains, Final Fantasy XV.
 
-**Lyn:** For recreating Skyrim Mash-Up, LittleBigPlanet Mash-Up, Mass Effect Mash-Up, Simpsons, Power Rangers, Halloween 2015 Mash-Up, Star Wars Classic, Star Wars Rebels, Star Wars Prequel, Star Wars Sequel, Solo: A Star Wars Story, Marvel Avengers, Festive 2012, Festive 2014 Mash-Up, Classic Skin packs 1, 2, 3, 4, 5, and 6, Minecon 2015 Pack.
+**Lyn:** For recreating Skyrim Mash-Up, LittleBigPlanet Mash-Up, Mass Effect Mash-Up, Simpsons, Power Rangers, Halloween 2015 Mash-Up, Star Wars Classic, Star Wars Rebels, Star Wars Prequel, Star Wars Sequel, Solo: A Star Wars Story, Marvel Avengers, Marvel Spider-Man, Marvel Guardians of the Galaxy, Adventure Time Festive 2012, Festive 2014 Mash-Up, Classic Skin packs 1, 2, 3, 4, 5, and 6, Minecon 2015 Pack.
 
 **Pretzel:** For recreating Skin pack MINECON Earth 2017.
 
