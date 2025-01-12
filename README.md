@@ -104,3 +104,5 @@ Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.c
 **Pretzel:** For recreating Skin pack MINECON Earth 2017.
 
 **Lewis:** For recreating Skin packs Biome Settlers 1, Egyptian Mythology.
+
+**UltiMario:** For fixing issues with animation from the Battle & Beasts 2 skin pack.
