@@ -35,7 +35,8 @@
   "legacy_skinpacks:star_wars_rebels": {"after": "legacy_skinpacks:star_wars_prequel"},
   "legacy_skinpacks:star_wars_sequel": {"after": "legacy_skinpacks:star_wars_rebels"},
   "legacy_skinpacks:mc_storymode": {"after": "legacy_skinpacks:star_wars_sequel"},
-  "legacy_skinpacks:summer_of_arcade": {"after": "legacy_skinpacks:mc_storymode"},
+  "legacy_skinpacks:strangerthings": {"after": "legacy_skinpacks:mc_storymode"},
+  "legacy_skinpacks:summer_of_arcade": {"after": "legacy_skinpacks:strangerthings"},
   "legacy_skinpacks:skyrim": {"after": "legacy_skinpacks:summer_of_arcade"},
   "legacy_skinpacks:simpsons": {"after": "legacy_skinpacks:skyrim"},
   "legacy_skinpacks:villains": {"after": "legacy_skinpacks:simpsons"}

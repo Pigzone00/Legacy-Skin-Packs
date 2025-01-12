@@ -3707,6 +3707,169 @@
             }
         ]
     },
+    "legacy_skinpacks:strangerthings": {
+        "icon": "legacy_skinpacks:textures/skinpack_icons/strangerthings.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/lucassinclair.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/mikewheeler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/elevendress.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/dustinhenderson.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/willbyers.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/demogorgonclosedface.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/hopper.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/elevenlabwear.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/joycebyerschristmaslights.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/jonathanbyers.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/nancywheeler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/steveharrington.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/barbaraholland.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/hazmatsuit.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/eleventankgear.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/drbrenner.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/mrclarke.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/terryives.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/elevenwig.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/demogorgon.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/barbarahollandupsidedown.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/willbyersupsidedown.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/willbyersdressup.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/mikewheelerdressup.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/dustinhendersondressup.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/lucassinclairdressup.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/max.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/billy.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/elevensidebag.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/hopperbluejacket.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/joycebyersseason2.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/jonathanbyersseason2.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/nancywheelerseason2.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/bobnewby.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/maurybauman.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/drsamowens.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/hoppergown.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/kali.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/elevenpunk.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/funshine.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/axel.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/dottie.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/mick.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/maxtunnelbandits.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/strangerthings/mikewheelertunnelbandits.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/dustinhendersontunnelbandits.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/lucassinclairtunnelbandits.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/steveharringtontunnelbandits.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/elevensnowball.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/nancywheelersnowball.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/mikewheelersnowball.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/strangerthings/dustinhendersonsnowball.cpmmodel"
+            }		
+
+        ]
+    },
     "legacy_skinpacks:mc_storymode": {
         "icon": "legacy_skinpacks:textures/skinpack_icons/mc_storymode.png",
         "type": "skin",
