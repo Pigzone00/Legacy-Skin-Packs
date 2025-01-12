@@ -2508,6 +2508,195 @@
             }
         ]
     },
+    "legacy_skinpacks:gotg": {
+        "icon": "legacy_skinpacks:textures/skinpack_icons/gotg.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/starlord.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/rocket.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/groot.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/yondu.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/ronantheaccuser.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/nebula.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/sakaaranwarrior.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/korath.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/thecollector.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/carina.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/starlordcomics.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/adamwarlock.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/angela.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/charlie27.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/death.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/jasonofsparta.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/majorvictory.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/mantis.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/nova.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/quasar.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/thanos.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/wraith.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/drax.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/gotg/gamora.cpmmodel"
+            }
+        ]
+    },
+   "legacy_skinpacks:spiderman": {
+        "icon": "legacy_skinpacks:textures/skinpack_icons/spiderman.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/spiderman.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/spidermanblacksuit.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/spidermanfuturefoundation.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/spidermanmilesmorales.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/spiderman2099.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/spidermanbigtime.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/spidermansuperiorspiderman.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/auntmay.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/blackcat.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/carnage.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/chameleon.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/doctoroctopus.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/electro.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/greengoblin.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/gwenstacy.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/hammerhead.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/jjonahjameson.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/kingpin.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/kraven.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/lizard.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/maryjanewatson.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/menace.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/misternegative.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/morbius.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/mysterio.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/rhino.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/sandman.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/scorpion.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/shocker.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/silversable.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/venom.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/vulture.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/ironspider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/scarletspiderclassic.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/spiderman/scarletspidermodern.cpmmodel"
+            }
+        ]
+    },
     "legacy_skinpacks:mass_effect": {
         "icon": "legacy_skinpacks:textures/skinpack_icons/mass_effect.png",
         "type": "mashup",
