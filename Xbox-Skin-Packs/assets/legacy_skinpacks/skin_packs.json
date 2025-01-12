@@ -58,24 +58,6 @@
                 "model": "legacy_skinpacks:skinpacks/sp1/covenantbrute.cpmmodel"
             },
             {
-                "model": "legacy_skinpacks:skinpacks/sp1/tomassevchenko.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/ricovelasquez.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/jammer.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/scolarvisari.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/helghastassaultinfantry.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/helghastsnowtrooper.cpmmodel"
-            },
-            {
                 "model": "legacy_skinpacks:skinpacks/sp1/banjo.cpmmodel"
             },
             {
@@ -92,33 +74,6 @@
             },
             {
                 "model": "legacy_skinpacks:skinpacks/sp1/klungo.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/slycooper.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/bentley.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/murray.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/carmelitamontoyafox.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/cullangray.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/dionwells.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/ericschweitzer.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/chungkwan.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/parkyoonhee.cpmmodel"
             },
             {
                 "model": "legacy_skinpacks:skinpacks/sp1/rider.cpmmodel"
@@ -149,42 +104,6 @@
             },
             {
                 "model": "legacy_skinpacks:skinpacks/sp1/mandyelite.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/ethanmars.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/madisonpaige.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/normanjayden.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/scottshelby.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/nathandrake.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/elenafisher.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/eddyraja.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/zorlanlazarevic.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/josephcapelli.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/nathanhale.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/grim.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp1/chimera.cpmmodel"
             },
             {
                 "model": "legacy_skinpacks:skinpacks/sp1/racingdriver1.cpmmodel"
@@ -310,33 +229,6 @@
                 "model": "legacy_skinpacks:skinpacks/sp2/joannadarkperfectdarkzero.cpmmodel"
             },
             {
-                "model": "legacy_skinpacks:skinpacks/sp2/ratchet.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp2/clank.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp2/captainqwark.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp2/drnefarious.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp2/cole.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp2/kessler.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp2/kuo.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp2/nix.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp2/thebeast.cpmmodel"
-            },
-            {
                 "model": "legacy_skinpacks:skinpacks/sp2/juno.cpmmodel"
             },
             {
@@ -344,30 +236,6 @@
             },
             {
                 "model": "legacy_skinpacks:skinpacks/sp2/lupus.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp2/robedfigurered.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp2/robedfigurewhite.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp2/ellie.cpmmodel"
-            },
-			{
-                "model": "legacy_skinpacks:skinpacks/sp2/joel.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp2/tess.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp2/billtlou.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp2/bloater.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp2/clicker.cpmmodel"
             },
             {
                 "model": "legacy_skinpacks:skinpacks/sp2/bill.cpmmodel"
@@ -392,21 +260,6 @@
             },
             {
                 "model": "legacy_skinpacks:skinpacks/sp2/agentlevel5.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp2/kratos.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp2/zeus.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp2/hades.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp2/athena.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp2/gaia.cpmmodel"
             },
             {
                 "model": "legacy_skinpacks:skinpacks/sp2/horstashio.cpmmodel"
@@ -544,43 +397,16 @@
                 "model": "legacy_skinpacks:skinpacks/sp3/ittle.cpmmodel"
             },
             {
-                "model": "legacy_skinpacks:skinpacks/sp3/jak.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp3/daxter.cpmmodel"
-            },
-            {
                 "model": "legacy_skinpacks:skinpacks/sp3/joedanger.cpmmodel"
             },
             {
                 "model": "legacy_skinpacks:skinpacks/sp3/thegunstringer.cpmmodel"
             },
             {
-                "model": "legacy_skinpacks:skinpacks/sp3/iota.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp3/atoi.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp3/wendigo.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp3/scrap.cpmmodel"
-            },
-			{
-                "model": "legacy_skinpacks:skinpacks/sp3/cyclops.cpmmodel"
-            },
-            {
                 "model": "legacy_skinpacks:skinpacks/sp3/agent.cpmmodel"
             },
             {
                 "model": "legacy_skinpacks:skinpacks/sp3/peacekeeper.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp3/yuna.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/sp3/yamato.cpmmodel"
             },
             {
                 "model": "legacy_skinpacks:skinpacks/sp3/commando.cpmmodel"
@@ -1200,7 +1026,6 @@
 				"model": "legacy_skinpacks:skinpacks/birthday_2/witch.cpmmodel"
             },
             {
-
                 "model": "legacy_skinpacks:skinpacks/birthday_2/partywitherskeleton.cpmmodel"
             },
             {
@@ -1231,12 +1056,6 @@
 				"model": "legacy_skinpacks:skinpacks/birthday_2/herochicken.cpmmodel"
 			},
 			{
-				"model": "legacy_skinpacks:skinpacks/birthday_2/ratchet.cpmmodel"
-			},
-			{
-				"model": "legacy_skinpacks:skinpacks/birthday_2/clank.cpmmodel"
-			},
-			{
 				"model": "legacy_skinpacks:skinpacks/birthday_2/horstachio.cpmmodel"
 			},
 			{
@@ -1259,36 +1078,6 @@
 			},
 			{
 				"model": "legacy_skinpacks:skinpacks/birthday_2/gruntilda.cpmmodel"
-			},
-			{
-				"model": "legacy_skinpacks:skinpacks/birthday_2/sackboy.cpmmodel"
-			},
-			{
-				"model": "legacy_skinpacks:skinpacks/birthday_2/sackgirl.cpmmodel"
-			},
-			{
-				"model": "legacy_skinpacks:skinpacks/birthday_2/slycooper.cpmmodel"
-			},
-			{
-				"model": "legacy_skinpacks:skinpacks/birthday_2/carmelitamontoyafox.cpmmodel"
-			},
-			{
-				"model": "legacy_skinpacks:skinpacks/birthday_2/bentley.cpmmodel"
-			},
-			{
-				"model": "legacy_skinpacks:skinpacks/birthday_2/kratos.cpmmodel"
-			},
-			{
-				"model": "legacy_skinpacks:skinpacks/birthday_2/zeus.cpmmodel"
-			},
-			{
-				"model": "legacy_skinpacks:skinpacks/birthday_2/gaia.cpmmodel"
-			},
-			{
-				"model": "legacy_skinpacks:skinpacks/birthday_2/red.cpmmodel"
-			},
-			{
-				"model": "legacy_skinpacks:skinpacks/birthday_2/white.cpmmodel"
 			},
 			{
 				"model": "legacy_skinpacks:skinpacks/birthday_2/partygrunt.cpmmodel"
@@ -2304,126 +2093,6 @@
       {"model": "legacy_skinpacks:skinpacks/halloween_charity/zombielonestarronimogames.cpmmodel"}
     ]
   },
-    "legacy_skinpacks:little_big_planet": {
-        "icon": "legacy_skinpacks:textures/skinpack_icons/little_big_planet.png",
-        "type": "mashup",
-        "skins": [
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/sackboy.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/sackboysteve.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/marvindiscodancer.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/rocksackgirl.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/groomsackboy.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/bridesackgirl.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/fairysackgirl.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/ninjasackboy.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/yukikoschoolgirl.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/dragonsackboy.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/devilsackboy.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/dinosaursackgirl.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/neonsackgirl.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/lionsackboy.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/sackbot.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/theking.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/thequeen.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/thegreatmagician.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/zedude.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/sheriffzapata.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/theterribleoni.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/shopkeeper.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/mariannenoisette.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/victoriavonbathysphere.cpmmodel"
-            },
-            {
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/clivehandforth.cpmmodel"
-            },
-			{
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/avalonecentrifuge.cpmmodel"
-            },
-			{
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/evesilvaparagorica.cpmmodel"
-            },
-			{
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/thenewtongood.cpmmodel"
-            },
-			{
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/marlonrandom.cpmmodel"
-            },
-			{
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/captainpud.cpmmodel"
-            },
-			{
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/papalmache.cpmmodel"
-            },
-			{
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/pinkybuflooms.cpmmodel"
-            },
-			{
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/nanapud.cpmmodel"
-            },
-			{
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/zomzom.cpmmodel"
-            },
-			{
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/smalltoggle.cpmmodel"
-            },
-			{
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/toggle.cpmmodel"
-            },
-			{
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/thenewtonevil.cpmmodel"
-            },
-			{
-                "model": "legacy_skinpacks:skinpacks/little_big_planet/sackgirl.cpmmodel"
-            }
-        ]
-    },
   "legacy_skinpacks:minecon_2017": {
     "icon": "legacy_skinpacks:textures/skinpack_icons/minecon_2017.png",
     "type": "skin",
