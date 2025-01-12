@@ -1241,6 +1241,165 @@
       {"model": "legacy_skinpacks:skinpacks/birthday_1/enderdragon.cpmmodel"}
     ]
   },
+    "legacy_skinpacks:adventure_time": {
+        "icon": "legacy_skinpacks:textures/skinpack_icons/adventure_time.png",
+        "type": "mashup",
+        "skins": [
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/finn.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/finnjammies.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/fionna.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/fionnadress.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/jake.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/cake.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/princessbubblegum.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/princegumball.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/ladyrainicorn.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/iceking.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/simonpetrikov.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/icequeen.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/marceline.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/marshalllee.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/kingofooo.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/bmo.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/flameprincess.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/flameprince.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/earloflemongrab.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/magicman.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/ricardio.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/gunter.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/billy.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/billyyoung.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/raggedyprincess.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/emeraldprincess.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/drprincess.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/breakfastprincess.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/sirslicer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/death.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/thelich.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/huntresswizard.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/charlie.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/jakejr.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/viola.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/headmarauder.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/witch.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/hunsonabadeer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/grobgobglobgrod.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/frozenyogurtprincess.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/garythemermaidqueen.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/susanstrong.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/martinmertensyoung.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/martinmertens.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/adventure_time/fern.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/frieda.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/drgross.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/minerva.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/betty.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/bananaguard.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/adventure_time/lumpyspaceprincess.cpmmodel"
+            }
+        ]
+    },
   "legacy_skinpacks:battle_beasts_1": {
     "icon": "legacy_skinpacks:textures/skinpack_icons/battle_beasts_1.png",
     "type": "skin",
@@ -2190,6 +2349,54 @@
       {"model": "legacy_skinpacks:skinpacks/minecon_2017/creepercosplayer.cpmmodel"}
     ]
   },
+     "legacy_skinpacks:minecon_2016": {
+        "icon": "legacy_skinpacks:textures/skinpack_icons/minecon_2016.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "legacy_skinpacks:skinpacks/minecon_2016/minecon2011steve.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/minecon_2016/minecon2012steve.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/minecon_2016/minecon2013steve.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/minecon_2016/minecon2015steve.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/minecon_2016/minecon2016steve.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/minecon_2016/minecon2011alex.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/minecon_2016/minecon2012alex.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/minecon_2016/minecon2013alex.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/minecon_2016/minecon2015alex.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/minecon_2016/minecon2016alex.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/minecon_2016/forestfighter.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/minecon_2016/icepioneer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/minecon_2016/mesaartisan.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/minecon_2016/oceanengineer.cpmmodel"
+            }
+        ]
+    },
     "legacy_skinpacks:avengers": {
         "icon": "legacy_skinpacks:textures/skinpack_icons/avengers.png",
         "type": "skin",
