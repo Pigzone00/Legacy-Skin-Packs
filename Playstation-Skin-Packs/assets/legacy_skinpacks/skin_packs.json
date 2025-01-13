@@ -675,6 +675,147 @@
       {"model": "legacy_skinpacks:skinpacks/birthday_1/enderdragon.cpmmodel"}
     ]
   },
+     "legacy_skinpacks:potc": {
+        "icon": "legacy_skinpacks:textures/skinpack_icons/potc.png",
+        "type": "mashup",
+        "skins": [
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/captainjacksparrow.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/willturner.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/elizabethswann.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/captainbarbossa.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/cursedcaptainbarbossa.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/cursedcaptainjacksparrow.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/commodorejamesnorrington.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/joshameegibbs.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/cotton.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/anamaria.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/marty.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/pintel.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/ragetti.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/bosun.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/cursedkoehler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/cursedjacoby.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/murtogg.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/mullroy.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/davyjones.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/bootstrapbill.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/cutlerbeckett.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/tiadalma.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/maccus.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/hadras.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/koleniko.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/palifico.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/morey.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/clanker.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/taihuang.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/captainswann.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/captainammand.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/gentlemanjocard.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/mistressching.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/capitainechevalle.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/captainvillanueva.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/blackbeard.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/angelica.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/syrena.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/philipswift.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/captainsalazar.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/henryturner.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/carinasmyth.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/officermagda.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/potc/lieutenantlesaro.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/potc/officersantos.cpmmodel"
+            }
+        ]
+    },
     "legacy_skinpacks:adventure_time": {
         "icon": "legacy_skinpacks:textures/skinpack_icons/adventure_time.png",
         "type": "mashup",
@@ -834,6 +975,7 @@
             }
         ]
     },
+
   "legacy_skinpacks:battle_beasts_1": {
     "icon": "legacy_skinpacks:textures/skinpack_icons/battle_beasts_1.png",
     "type": "skin",
