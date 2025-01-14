@@ -2927,6 +2927,57 @@
             }
         ]
     },
+    "legacy_skinpacks:magic": {
+        "icon": "legacy_skinpacks:textures/skinpack_icons/magic.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "legacy_skinpacks:skinpacks/magic/liliana.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/magic/chandra.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/magic/nissa.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/magic/ajani.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/magic/nicolbolas.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/magic/emrakul.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/magic/tezzeret.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/magic/samut.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/magic/saheelirai.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/magic/tamiyo.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/magic/avacyn.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/magic/dovinbaan.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/magic/hazoret.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/magic/gideon.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/magic/jace.cpmmodel"
+            }
+        ]
+    },
     "legacy_skinpacks:mass_effect": {
         "icon": "legacy_skinpacks:textures/skinpack_icons/mass_effect.png",
         "type": "mashup",
