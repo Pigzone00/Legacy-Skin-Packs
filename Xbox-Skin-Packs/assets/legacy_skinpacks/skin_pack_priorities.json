@@ -1,6 +1,7 @@
 {
   "schemaVersion": 2,
-  "legacy_skinpacks:birthday_4": -50,
+  "legacy_skinpacks:birthday_5": -50,
+  "legacy_skinpacks:birthday_4": {"after": "legacy_skinpacks:birthday_5"},
   "legacy_skinpacks:birthday_3": {"after": "legacy_skinpacks:birthday_4"},
   "legacy_skinpacks:birthday_2": {"after": "legacy_skinpacks:birthday_3"},
   "legacy_skinpacks:birthday_1": {"after": "legacy_skinpacks:birthday_2"},
