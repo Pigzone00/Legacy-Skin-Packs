@@ -30,7 +30,7 @@ Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.c
 |Minecraft 2nd Birthday Skin pack|✅|✅|
 |Minecraft 3rd Birthday Skin pack|✅|✅|
 |Minecraft 4th Birthday Skin pack|✅|✅|
-|Minecraft 5th Birthday Skin pack|❌|✅|
+|Minecraft 5th Birthday Skin pack|✅|✅|
 |Summer of Arcade Promotional Skin Pack|✅|✅|
 |Halloween Skin pack|✅|✅|
 |Festive Skin pack|✅|✅|
@@ -51,7 +51,7 @@ Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.c
 |Campfire Tales Skin Pack|✅|✅|
 |Final Fantasy XV Skin Pack|✅|✅|
 |Mighty Morphin Power Rangers|✅|✅|
-|Magic: The Gathering Skin Pack|❌|✅|
+|Magic: The Gathering Skin Pack|✅|✅|
 |Battle & Beasts Skin Pack|✅|✅|
 |Battle & Beasts 2 Skin Pack|✅|✅|
 |Star Wars Rebels Skin Pack|✅|✅|
@@ -71,7 +71,7 @@ Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.c
 |Egyptian Mythology Mash-up pack|✅|✅|
 |Little Big Planet Mash-up pack|✅|✅|
 |Festive 2016 Mash-up|✅|✅|
-|Pirates of the Caribbean Mash-up pack|❌|✅|
+|Pirates of the Caribbean Mash-up pack|✅|✅|
 |Nightmare Before Christmas Mash-up pack|❌|✅|
 |Steven Universe Mash-up Pack|❌|✅|
 |Toy Story Mash-up Pack|❌|✅|
@@ -98,9 +98,9 @@ Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.c
 
 **SpawnOfZap:** For recreating Skin packs Biome Settlers 1, Summer of Arcade.
 
-**Raiden:** For recreating Skin packs Minecraft 2nd, 3rd & 4th Birthday, Campfire Tales, 2nd Birthday - PS3, Villains, Final Fantasy XV.
+**Raiden:** For recreating Skin packs Minecraft 2nd, 3rd & 5th Birthday (4th on Playstation), Campfire Tales, 2nd Birthday - PS3, Villains, Final Fantasy XV.
 
-**Lyn:** For recreating Skyrim Mash-Up, LittleBigPlanet Mash-Up, Mass Effect Mash-Up, Simpsons, Power Rangers, Halloween 2015 Mash-Up, Star Wars Classic, Star Wars Rebels, Star Wars Prequel, Star Wars Sequel, Solo: A Star Wars Story, Marvel Avengers, Marvel Spider-Man, Marvel Guardians of the Galaxy, Adventure Time, Festive 2012, Festive 2014 Mash-Up, Classic Skin packs 1, 2, 3, 4, 5, and 6, Minecon 2015 Pack, Stranger Things.
+**Lyn:** For recreating Skyrim Mash-Up, LittleBigPlanet Mash-Up, Mass Effect Mash-Up, Simpsons, Power Rangers, Halloween 2015 Mash-Up, Star Wars Classic, Star Wars Rebels, Star Wars Prequel, Star Wars Sequel, Solo: A Star Wars Story, Marvel Avengers, Marvel Spider-Man, Marvel Guardians of the Galaxy, Adventure Time, Festive 2012, Festive 2014 Mash-Up, Classic Skin packs 1, 2, 3, 4, 5, 6, Minecon 2015 Pack, Stranger Things, Pirates of the Caribbean, Magic: The Gathering and 4th Birthday Skin Pack.
 
 **Pretzel:** For recreating Skin pack MINECON Earth 2017.
 
