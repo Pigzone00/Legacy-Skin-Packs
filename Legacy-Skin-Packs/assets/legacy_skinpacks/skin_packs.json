@@ -1906,6 +1906,87 @@
             }
         ]
     },
+    "legacy_skinpacks:biome_settlers_3": {
+        "icon": "legacy_skinpacks:textures/skinpack_icons/biome_settlers_3.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/endarcher.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/endbrawler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/endbrewer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/endengineer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/endgriefer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/endhunter.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/endtamer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/endzealot.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/farlandarcher.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/farlandbrawler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/farlandbrewer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/farlandengineer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/farlandgriefer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/farlandhunter.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/farlandminer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/farlandtamer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/farlandzealot.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/oceanarcher.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/oceanbrawler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/oceanbrewer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/oceanengineer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/oceangriefer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/oceanhunter.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/oceantamer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_3/oceanzealot.cpmmodel"
+            }
+        ]
+    },
     "legacy_skinpacks:campfire_tales": {
         "icon": "legacy_skinpacks:textures/skinpack_icons/campfire_tales.png",
         "type": "skin",
