@@ -1799,33 +1799,111 @@
     ]
   },
    "legacy_skinpacks:biome_settlers_1": {
-        "icon": "legacy_skinpacks:textures/skinpack_icons/biome_settlers_1.png",
+		"icon": "legacy_skinpacks:textures/skinpack_icons/biome_settlers_1.png",
         "type": "skin",
         "skins": [
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/desertarcher.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/desertbrawler.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/desertbrewer.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/desertengineer.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/desertgriefer.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/deserthunter.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/deserthusk.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/deserttamer.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/forestarcher.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/forestbrawler.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/forestbrewer.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/forestengineer.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/forestgriefer.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/foresthunter.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/forestwoodbeast.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/foresttamer.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/tundraarcher.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/tundrabrawler.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/tundrabrewer.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/tundraengineer.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/tundragriefer.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/tundrahunter.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/tundrastray.cpmmodel"},
-      {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/tundratamer.cpmmodel"}
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/desertarcher.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/desertbrawler.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/desertbrewer.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/desertengineer.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/desertgriefer.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/deserthunter.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/deserthusk.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/deserttamer.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/forestarcher.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/forestbrawler.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/forestbrewer.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/forestengineer.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/forestgriefer.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/foresthunter.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/forestwoodbeast.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/foresttamer.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/tundraarcher.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/tundrabrawler.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/tundrabrewer.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/tundraengineer.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/tundragriefer.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/tundrahunter.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/tundrastray.cpmmodel"},
+		  {"model": "legacy_skinpacks:skinpacks/biome_settlers_1/tundratamer.cpmmodel"}
+        ]
+    },
+    "legacy_skinpacks:biome_settlers_2": {
+        "icon": "legacy_skinpacks:textures/skinpack_icons/biome_settlers_2.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/mooshroomarcher.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/mooshroombrawler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/mooshroombrewer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/mooshroomengineer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/mooshroomexplorer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/mooshroomfarmer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/mooshroomforager.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/mooshroomgriefer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/mooshroomhunter.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/mooshroomminer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/mooshroommara.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/mooshroomtamer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/netherarcher.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/netherbanished.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/netherbrawler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/netherbrewer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/netherengineer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/netherexplorer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/netherextinguisher.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/netherfarmer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/nethergriefer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/netherhunter.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/netherminer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/biome_settlers_2/nethertamer.cpmmodel"
+            }
         ]
     },
     "legacy_skinpacks:campfire_tales": {
