@@ -416,6 +416,144 @@
             }
         ]
     },
+    "legacy_skinpacks:csp1": {
+        "icon": "legacy_skinpacks:textures/skinpack_icons/csp1.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/masterchief.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/banjo.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/rider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/knighttemplar.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/blackknight.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/wizard.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/creeper.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/squid.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/zombie.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/jackofblades.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/hero.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/garth.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/reaver.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/hammer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/locustdrone.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/coletrain.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/covenantgrunt.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/covenantbrute.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/gruntilda.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/bottles.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/tooty.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/mumbojumbo.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/klungo.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/freestyle.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/oldschool.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/biker.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/csp1/combat.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/scientistwilson.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/scientistdanklef.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/mssplosionman.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/mandyelite.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/racingdriver1.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/racingdriver2.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/racingdriver3.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/racingdriver4.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/nurse.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/prisoner.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/victorianswimmer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/deepseadiver.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/king.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/queen.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/jester.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/splosionman.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/csp1/claytoncarmine.cpmmodel"
+            }
+        ]
+    },
    "legacy_skinpacks:birthday_4":{
       "icon":"legacy_skinpacks:textures/skinpack_icons/birthday_4.png",
       "type":"skin",
