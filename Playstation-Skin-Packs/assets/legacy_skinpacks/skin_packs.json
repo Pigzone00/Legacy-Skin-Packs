@@ -2505,6 +2505,57 @@
             }
         ]
     },
+    "legacy_skinpacks:redstone_specialists": {
+        "icon": "legacy_skinpacks:textures/skinpack_icons/redstone_specialists.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "legacy_skinpacks:skinpacks/redstone_specialists/architect.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/redstone_specialists/artisan.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/redstone_specialists/scholar.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/redstone_specialists/composer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/redstone_specialists/duster.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/redstone_specialists/vanguard.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/redstone_specialists/protector.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/redstone_specialists/redstoneminer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/redstone_specialists/redstonemiser.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/redstone_specialists/coder.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/redstone_specialists/prospector.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/redstone_specialists/railrider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/redstone_specialists/tnttech.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/redstone_specialists/trapper.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/redstone_specialists/tinkerer.cpmmodel"
+            }
+        ]
+    },
    "legacy_skinpacks:star_wars_solo": {
         "icon": "legacy_skinpacks:textures/skinpack_icons/star_wars_solo.png",
         "type": "skin",
