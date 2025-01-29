@@ -1,0 +1,158 @@
+{
+    "modern_skinpacks:sth": {
+        "icon": "modern_skinpacks:textures/skinpack_icons/sth.png",
+        "type": "mashup",
+        "skins": [
+            {
+                "model": "modern_skinpacks:skinpacks/sth/sonicthehedgehog.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/tailsthefox.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/knuckles.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/amythehedgehog.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/eggman.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/shadowthehedgehog.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/silverthehedgehog.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/supersonic.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/metalsonic.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/metalknuckles.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/creamtherabbit.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/bigthecat.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/rougethebat.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/e123omega.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/blazethecat.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/vectorthecrocodile.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/charmybee.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/espiothechameleon.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/mightythearmadillo.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/raytheflyingsquirrel.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/sonicthewerehog.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/mechasonic.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/e102gamma.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/chaos.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/infinite.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/sth/longclaw.cpmmodel"
+            },
+			{
+                "model": "modern_skinpacks:skinpacks/sth/donutlord.cpmmodel"
+            },
+			{
+                "model": "modern_skinpacks:skinpacks/sth/sonicthehedgehogsnowsuit.cpmmodel"
+            },
+			{
+                "model": "modern_skinpacks:skinpacks/sth/tailsthefoxsnowsuit.cpmmodel"
+            },
+			{
+                "model": "modern_skinpacks:skinpacks/sth/supershadow.cpmmodel"
+            },
+			{
+                "model": "modern_skinpacks:skinpacks/sth/mariarobotnik.cpmmodel"
+            },
+			{
+                "model": "modern_skinpacks:skinpacks/sth/geraldrobotnik.cpmmodel"
+            },
+			{
+                "model": "modern_skinpacks:skinpacks/sth/emerl.cpmmodel"
+            },
+			{
+                "model": "modern_skinpacks:skinpacks/sth/gemerl.cpmmodel"
+            }
+        ]
+    },
+    "modern_skinpacks:mmx": {
+        "icon": "modern_skinpacks:textures/skinpack_icons/mmx.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "modern_skinpacks:skinpacks/mmx/megamanx.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/mmx/zero.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/mmx/sigma.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/mmx/vile.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/mmx/chillpenguin.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/mmx/stormeagle.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/mmx/stingchameleon.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/mmx/armoredarmadillo.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/mmx/drlight.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/mmx/roll.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/mmx/drwily.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/mmx/navigator.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/mmx/protoman.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/mmx/bass.cpmmodel"
+            }
+        ]
+    }
+}
