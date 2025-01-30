@@ -218,75 +218,51 @@
             }
         ]
     },
-   "modern_skinpacks:tmnt": {
-        "icon": "modern_skinpacks:textures/skinpack_icons/tmnt.png",
+    "modern_skinpacks:mmx": {
+        "icon": "modern_skinpacks:textures/skinpack_icons/mmx.png",
         "type": "skin",
         "skins": [
             {
-                "model": "modern_skinpacks:skinpacks/tmnt/leonardo.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/mmx/megamanx.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/tmnt/michelangelo.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/mmx/zero.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/tmnt/donatello.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/mmx/sigma.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/tmnt/raphael.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/mmx/vile.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/tmnt/april.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/mmx/chillpenguin.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/tmnt/splinter.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/mmx/stormeagle.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/tmnt/shredder.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/mmx/stingchameleon.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/tmnt/krang.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/mmx/armoredarmadillo.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/tmnt/footsoldier.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/mmx/drlight.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/tmnt/caseyjones.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/mmx/roll.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/tmnt/rocksteady.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/mmx/drwily.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/tmnt/bebop.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/mmx/navigator.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemleo.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/mmx/protoman.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemdonnie.cpmmodel"
-            },
-            {
-                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemmikey.cpmmodel"
-            },
-            {
-                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemraph.cpmmodel"
-            },
-            {
-                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemapril.cpmmodel"
-            },
-            {
-                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemsplinter.cpmmodel"
-            },
-            {
-                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemrocksteady.cpmmodel"
-            },
-            {
-                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhembebop.cpmmodel"
-            },
-            {
-                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemmondogecko.cpmmodel"
-            },
-            {
-                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemsuperfly.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/mmx/bass.cpmmodel"
             }
         ]
     },
@@ -398,51 +374,204 @@
             }
         ]
     },
-    "modern_skinpacks:mmx": {
-        "icon": "modern_skinpacks:textures/skinpack_icons/mmx.png",
+   "modern_skinpacks:potj": {
+        "icon": "modern_skinpacks:textures/skinpack_icons/potj.png",
         "type": "skin",
         "skins": [
             {
-                "model": "modern_skinpacks:skinpacks/mmx/megamanx.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/potj/macewindu.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/mmx/zero.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/potj/obiwankenobi.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/mmx/sigma.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/potj/ahsokatano.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/mmx/vile.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/potj/anakinskywalker.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/mmx/chillpenguin.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/potj/darthvader.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/mmx/stormeagle.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/potj/b1battledroid.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/mmx/stingchameleon.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/potj/b2superbattledroid.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/mmx/armoredarmadillo.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/potj/generalgrievous.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/mmx/drlight.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/potj/magnaguard.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/mmx/roll.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/potj/darthmaul.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/mmx/drwily.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/potj/padawan1.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/mmx/navigator.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/potj/padawan2.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/mmx/protoman.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/potj/padawan3.cpmmodel"
             },
             {
-                "model": "modern_skinpacks:skinpacks/mmx/bass.cpmmodel"
+                "model": "modern_skinpacks:skinpacks/potj/padawan4.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/kelleranbeq.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/padmeamidala.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/jarjarbinks.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/palpatine.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/countdooku.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/asajjventress.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/savageopress.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/captainrex.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/commandercody.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/clonetrooper.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/chewbacca.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/bokatan.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/cadbane.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/jangofett.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/jedi1.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/jedi2.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/jedi3.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/jeditempleguard.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/tuskenraider.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/feluciaraider1.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/feluciaraider2.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/darthsidious.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/stassallie.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/kiadimundi.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/kitfisto.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/shaakti.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/potj/plokoon.cpmmodel"
+            }
+        ]
+    },
+   "modern_skinpacks:tmnt": {
+        "icon": "modern_skinpacks:textures/skinpack_icons/tmnt.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/leonardo.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/michelangelo.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/donatello.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/raphael.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/april.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/splinter.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/shredder.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/krang.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/footsoldier.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/caseyjones.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/rocksteady.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/bebop.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemleo.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemdonnie.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemmikey.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemraph.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemapril.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemsplinter.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemrocksteady.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhembebop.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemmondogecko.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemsuperfly.cpmmodel"
             }
         ]
     }
