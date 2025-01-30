@@ -158,6 +158,66 @@
             }
         ]
     },
+   "modern_skinpacks:bm": {
+        "icon": "modern_skinpacks:textures/skinpack_icons/bm.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "modern_skinpacks:skinpacks/bm/batman.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/bm/robin.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/bm/joker.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/bm/harleyquinn.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/bm/poisonivy.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/bm/batgirl.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/bm/batwing.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/bm/batwoman.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/bm/nightwing.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/bm/alfred.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/bm/riddler.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/bm/catwoman.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/bm/penguin.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/bm/clayface.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/bm/mrfreeze.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/bm/firefly.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/bm/luciusfox.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/bm/commissionergordon.cpmmodel"
+            }
+        ]
+    },
    "modern_skinpacks:tmnt": {
         "icon": "modern_skinpacks:textures/skinpack_icons/tmnt.png",
         "type": "skin",
