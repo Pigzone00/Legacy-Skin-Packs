@@ -158,6 +158,78 @@
             }
         ]
     },
+   "modern_skinpacks:tmnt": {
+        "icon": "modern_skinpacks:textures/skinpack_icons/tmnt.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/leonardo.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/michelangelo.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/donatello.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/raphael.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/april.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/splinter.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/shredder.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/krang.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/footsoldier.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/caseyjones.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/rocksteady.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/bebop.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemleo.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemdonnie.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemmikey.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemraph.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemapril.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemsplinter.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemrocksteady.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhembebop.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemmondogecko.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/tmnt/mutantmayhemsuperfly.cpmmodel"
+            }
+        ]
+    },
     "modern_skinpacks:sth": {
         "icon": "modern_skinpacks:textures/skinpack_icons/sth.png",
         "type": "mashup",
