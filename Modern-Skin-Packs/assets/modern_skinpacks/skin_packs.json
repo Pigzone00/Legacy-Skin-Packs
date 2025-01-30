@@ -752,6 +752,15 @@
 	 }
       ]
    },
+   "modern_skinpacks:earthskin":{
+      "icon":"modern_skinpacks:textures/skinpack_icons/earthskin.png",
+      "type":"skin",
+      "skins":[
+         {
+            "model":"modern_skinpacks:skinpacks/earthskin/earthskin.cpmmodel"
+	 }
+      ]
+   },
    "modern_skinpacks:fauna":{
       "icon":"modern_skinpacks:textures/skinpack_icons/fauna.png",
       "type":"skin",
