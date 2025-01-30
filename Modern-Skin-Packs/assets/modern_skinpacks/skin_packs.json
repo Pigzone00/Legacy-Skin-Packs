@@ -1,4 +1,163 @@
 {
+   "modern_skinpacks:f16": {
+        "icon": "modern_skinpacks:textures/skinpack_icons/f16.png",
+        "type": "mashup",
+        "skins": [
+            {
+                "model": "modern_skinpacks:skinpacks/f16/snowhohomansweater.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/cringlecreepercardigan.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/mistletoesthebigfoot.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/mrscoolclaus.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/coolclaus.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/comet.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/cupid.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/dancer.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/dasher.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/donner.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/blitzen.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/prancer.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/vixen.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/dishevelf.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/chriscringle.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/krampus.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/noelf.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/tinself.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/toastmistress.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/toastmaster.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/yuletideyeti.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/alexxmassweater.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/athletealexxmassweater.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/athletestevexmassweater.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/boxeralexxmassweater.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/boxerstevexmassweater.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/candycanestick.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/cyclistalexxmassweater.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/cycliststevexmassweater.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/greensanta.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/prisoneralexxmassweater.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/prisonerstevexmassweater.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/scottishalexxmassweater.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/scottishstevexmassweater.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/skier.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/skisteve.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/smallelf2.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/smallelf3.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/snowflake.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/snowshoesteve.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/stevexmassweater.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/stocking.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/tennisalexxmassweater.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/tennisstevexmassweater.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/treefairy.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/rudolph.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/tomte.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/tuxedostevexmassweater.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/tuxedoalexxmassweater.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/bluesanta.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/f16/stevexmassweater2.cpmmodel"
+            }
+        ]
+    },
     "modern_skinpacks:sth": {
         "icon": "modern_skinpacks:textures/skinpack_icons/sth.png",
         "type": "mashup",
