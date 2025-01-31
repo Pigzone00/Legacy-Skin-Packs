@@ -575,6 +575,108 @@
             }
         ]
     },
+   "modern_skinpacks:wdw": {
+        "icon": "modern_skinpacks:textures/skinpack_icons/wdw.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/mickey.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/mickey50thanniversary.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/minnie.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/minnie50thanniversary.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/daisy.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/donald.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/goofy.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/chip.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/dale.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/eeyore.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/pooh.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/piglet.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/tigger.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/dopey.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/grumpy.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/doc.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/themeparkguest1.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/themeparkguest2.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/themeparkguest3.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/themeparkguest4.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/themeparkguest5.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/themeparkguest6.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/ezra.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/gus.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/phineas.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/tronblue.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/tronorange.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/peterpan.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/woody.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/buzzlightyear.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/jessie.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/wdw/stitch.cpmmodel"
+            }
+        ]
+    },
    "modern_skinpacks:beach":{
       "icon":"modern_skinpacks:textures/skinpack_icons/beach.png",
       "type":"skin",
