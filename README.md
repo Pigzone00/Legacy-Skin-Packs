@@ -107,3 +107,5 @@ Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.c
 **Lewis:** For recreating Skin packs Biome Settlers 1, Egyptian Mythology.
 
 **UltiMario:** For recreating Skin pack Minecon 2016 & fixing issues with animation from the Battle & Beasts 2 skin pack.
+
+**Daquavis:** For recreating Skin pack From the Shadows.
