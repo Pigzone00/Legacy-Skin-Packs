@@ -218,6 +218,27 @@
             }
         ]
     },
+    "modern_skinpacks:mcd": {
+        "icon": "modern_skinpacks:textures/skinpack_icons/mcd.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "modern_skinpacks:skinpacks/mcd/grimace.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/mcd/birdie.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/mcd/sodapotion.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/mcd/zombiehamburglar.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/mcd/bigmaccrystal.cpmmodel"
+            }
+        ]
+    },
     "modern_skinpacks:mmx": {
         "icon": "modern_skinpacks:textures/skinpack_icons/mmx.png",
         "type": "skin",
