@@ -43,10 +43,10 @@ Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.c
 |Festive Mash-up pack|✅|✅|
 |Halloween Mash-up pack|✅|✅|
 |Biome Settlers Skin Pack 1|✅|✅|
-|Biome Settlers Skin Pack 2|❌|✅|
-|Strangers - Biome Settlers 3|❌|✅|
+|Biome Settlers Skin Pack 2|✅|✅|
+|Strangers - Biome Settlers 3|✅|✅|
 |Story Mode Skin Pack|✅|✅|
-|Redstone Specialists Skin Pack|❌|✅|
+|Redstone Specialists Skin Pack|✅|✅|
 |Villains Skin Pack|✅|✅|
 |Campfire Tales Skin Pack|✅|✅|
 |Final Fantasy XV Skin Pack|✅|✅|
