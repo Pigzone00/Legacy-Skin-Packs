@@ -2244,6 +2244,102 @@
             }
         ]
     },
+    "legacy_skinpacks:mgh": {
+        "icon": "legacy_skinpacks:textures/skinpack_icons/mgh.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/batbattler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/battumbler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/batglider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/catbattler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/cattumbler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/catglider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/cowbattler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/cowtumbler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/cowglider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/elderguardianbattler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/elderguardiantumbler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/elderguardianglider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/horsebattler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/horsetumbler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/horseglider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/llamabattler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/llamatumbler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/llamaglider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/magmacubebattler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/magmacubetumbler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/magmacubeglider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/slimebattler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/slimetumbler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/slimeglider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/spiderbattler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/spidertumbler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/spiderglider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/villagerbattler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/villagertumbler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgh/villagerglider.cpmmodel"
+            }
+        ]
+    },
     "legacy_skinpacks:magic": {
         "icon": "legacy_skinpacks:textures/skinpack_icons/magic.png",
         "type": "skin",
