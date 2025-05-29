@@ -813,6 +813,60 @@
       {"model": "legacy_skinpacks:skinpacks/birthday_1/enderdragon.cpmmodel"}
     ]
   },
+    "legacy_skinpacks:shadows":{
+      "icon":"legacy_skinpacks:textures/skinpack_icons/shadows.png",
+      "type":"skin",
+      "skins":[
+			{
+				"model":"legacy_skinpacks:skinpacks/shadows/wick.cpmmodel"
+			},
+			{
+				"model":"legacy_skinpacks:skinpacks/shadows/torn.cpmmodel"
+			},
+			{
+				"model":"legacy_skinpacks:skinpacks/shadows/harbinger.cpmmodel"
+			},
+			{
+				"model":"legacy_skinpacks:skinpacks/shadows/poppy.cpmmodel"
+			},
+			{
+				"model":"legacy_skinpacks:skinpacks/shadows/gothica.cpmmodel"
+			},
+			{
+				"model":"legacy_skinpacks:skinpacks/shadows/yokai.cpmmodel"
+			},
+			{
+				"model":"legacy_skinpacks:skinpacks/shadows/seenoevil.cpmmodel"
+			},
+			{
+				"model":"legacy_skinpacks:skinpacks/shadows/hearnoevil.cpmmodel"
+			},
+			{
+				"model":"legacy_skinpacks:skinpacks/shadows/speaknoevil.cpmmodel"
+			},
+			{
+				"model":"legacy_skinpacks:skinpacks/shadows/parasite.cpmmodel"
+			},
+			{
+				"model":"legacy_skinpacks:skinpacks/shadows/lurk.cpmmodel"
+			},
+			{
+				"model":"legacy_skinpacks:skinpacks/shadows/vein.cpmmodel"
+			},
+			{
+				"model":"legacy_skinpacks:skinpacks/shadows/splinter.cpmmodel"
+			},
+			{
+				"model":"legacy_skinpacks:skinpacks/shadows/bulbo.cpmmodel"
+			},
+			{
+				"model":"legacy_skinpacks:skinpacks/shadows/mush.cpmmodel"
+			},
+			{
+				"model":"legacy_skinpacks:skinpacks/shadows/patchwork.cpmmodel"
+			}
+		]
+	},
      "legacy_skinpacks:potc": {
         "icon": "legacy_skinpacks:textures/skinpack_icons/potc.png",
         "type": "mashup",
@@ -3840,7 +3894,6 @@
    	        "model": "legacy_skinpacks:skinpacks/villains/endergaunt.cpmmodel"
             },
             {
-
                 "model": "legacy_skinpacks:skinpacks/villains/eyece.cpmmodel"
             },
             {
@@ -3851,28 +3904,28 @@
             },
             {
                 "model": "legacy_skinpacks:skinpacks/villains/patchkin.cpmmodel"
-	    },
-	    {
+			},
+			{
 	    	"model": "legacy_skinpacks:skinpacks/villains/redstonezealot.cpmmodel"
-	    },
-	    {
+			},
+			{
 	    	"model": "legacy_skinpacks:skinpacks/villains/silverfishmonger.cpmmodel"
-	    },
-	    {
+			},
+			{
 	    	"model": "legacy_skinpacks:skinpacks/villains/slymime.cpmmodel"
-	    },
-	    {
+			},
+			{
 	    	"model": "legacy_skinpacks:skinpacks/villains/strongholdmonarch.cpmmodel"
-	    },
-	    {
+			},
+			{
 	    	"model": "legacy_skinpacks:skinpacks/villains/strongholdseer.cpmmodel"
-	    },
-	    {
+			},
+			{
 	    	"model": "legacy_skinpacks:skinpacks/villains/swindler.cpmmodel"
-	    },
-	    {
+			},
+			{
 	    	"model": "legacy_skinpacks:skinpacks/villains/terrorspawner.cpmmodel"
-	    }
+			}
 
         ]
     }
