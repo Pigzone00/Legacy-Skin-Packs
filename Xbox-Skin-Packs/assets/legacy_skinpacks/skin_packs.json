@@ -2671,6 +2671,102 @@
             }
         ]
     },
+    "legacy_skinpacks:mgm": {
+        "icon": "legacy_skinpacks:textures/skinpack_icons/mgm.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/blazebattler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/blazetumbler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/blazeglider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/creeperbattler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/creepertumbler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/creeperglider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/endbattler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/endtumbler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/endglider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/ghastbattler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/ghasttumbler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/ghastglider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/guardianbattler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/guardiantumbler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/guardianglider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/pigbattler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/pigtumbler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/pigglider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/squidbattler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/squidtumbler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/squidglider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/witherbattler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/withertumbler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/witherglider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/wolfbattler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/wolftumbler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/wolfglider.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/zombiebattler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/zombietumbler.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/mgm/zombieglider.cpmmodel"
+            }
+        ]
+    },
     "legacy_skinpacks:avengers": {
         "icon": "legacy_skinpacks:textures/skinpack_icons/avengers.png",
         "type": "skin",
