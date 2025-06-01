@@ -47,6 +47,7 @@
   "legacy_skinpacks:biome_settlers_3": {"after": "legacy_skinpacks:strangerthings"},
   "legacy_skinpacks:summer_of_arcade": {"after": "legacy_skinpacks:biome_settlers_3"},
   "legacy_skinpacks:skyrim": {"after": "legacy_skinpacks:summer_of_arcade"},
-  "legacy_skinpacks:simpsons": {"after": "legacy_skinpacks:skyrim"},
+  "legacy_skinpacks:inc": {"after": "legacy_skinpacks:skyrim"},
+  "legacy_skinpacks:simpsons": {"after": "legacy_skinpacks:inc"},
   "legacy_skinpacks:villains": {"after": "legacy_skinpacks:simpsons"}
 }

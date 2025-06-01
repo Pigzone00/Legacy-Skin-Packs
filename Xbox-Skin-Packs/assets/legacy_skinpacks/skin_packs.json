@@ -4487,6 +4487,138 @@
             }
         ]
     },
+    "legacy_skinpacks:inc": {
+        "icon": "legacy_skinpacks:textures/skinpack_icons/inc.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/mrincredibleglorydays.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/mrincredible.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/bobparr.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/elastigirlglorydays.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/elastigirl.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/helenparr.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/violet.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/violetparr.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/dash.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/dashparr.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/mrincrediblejackjack.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/frozone.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/luciusbest.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/ednamode.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/ednamodeinc2.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/syndrome.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/buddypine.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/bombvoyage.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/mirage.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/underminer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/gazerbeam.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/rickdicker.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/evelyndeavor.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/winstondeaver.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/ambassadorselick.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/voyd.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/screenslaver.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/brick.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/reflux.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/krushauer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/helectrix.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/screech.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/cliffhanger.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/brainstorm.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/dehydra.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/icebreaker.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/shock.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/awe.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/zephyr.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/firebreak.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/vapora.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/inc/diabla.cpmmodel"
+            }
+        ]
+    },
     "legacy_skinpacks:simpsons": {
         "icon": "legacy_skinpacks:textures/skinpack_icons/simpsons.png",
         "type": "skin",
