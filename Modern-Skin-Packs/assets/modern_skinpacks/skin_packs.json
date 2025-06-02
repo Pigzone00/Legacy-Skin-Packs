@@ -698,6 +698,177 @@
             }
         ]
     },
+   "modern_skinpacks:atla": {
+        "icon": "modern_skinpacks:textures/skinpack_icons/atla.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "modern_skinpacks:skinpacks/atla/aang.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/katara.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/sokka.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/toph.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/zuko.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/iroh.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/azula.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/mai.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/tylee.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/suki.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/kingbumi.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/theboulder.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/zhao.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/combustionman.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/ozai.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/roku.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/kyoshi.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/kuruk.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/yangchen.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/aangcosmic.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/cabbagemerchant.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/longfeng.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/joodee.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/jet.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/korra.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/asami.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/bolin.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/mako.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/tenzin.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/lin.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/amon.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/unalaq.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/zaheer.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/kuvira.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/varrick.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/zhuli.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/bumi.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/kya.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/ghazan.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/minghua.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/pli.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/jinora.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/ikki.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/meelo.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/korracosmic.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/unavaatu.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/aangadult.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/wan.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/suyin.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/opal.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/kai.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/desna.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/eska.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/tonraq.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/atla/pathik.cpmmodel"
+            }
+        ]
+    },
    "modern_skinpacks:avatar": {
         "icon": "modern_skinpacks:textures/skinpack_icons/avatar.png",
         "type": "skin",
