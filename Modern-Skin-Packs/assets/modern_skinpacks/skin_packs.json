@@ -698,6 +698,84 @@
             }
         ]
     },
+   "modern_skinpacks:avatar": {
+        "icon": "modern_skinpacks:textures/skinpack_icons/avatar.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/jakesully.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/jakesullyavatar.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/neytiri.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/neteyam.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/loak.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/kiri.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/spider.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/milesquaritch.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/milesquaritchrecombinant.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/graceaugustine.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/graceaugustineavatar.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/eytukan.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/moat.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/tsutey.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/tonowari.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/tsireya.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/ronal.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/aonung.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/rotxo.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/solek.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/ikeyni.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/trudychacon.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/normspellman.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/avatar/normspellmanavatar.cpmmodel"
+            }
+        ]
+    },
    "modern_skinpacks:beach":{
       "icon":"modern_skinpacks:textures/skinpack_icons/beach.png",
       "type":"skin",
