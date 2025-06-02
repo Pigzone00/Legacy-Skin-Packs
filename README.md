@@ -57,8 +57,8 @@ Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.c
 |Star Wars Rebels Skin Pack|✅|✅|
 |Star Wars Classic Skin Pack|✅|✅|
 |Star Wars Prequel Skin Pack|✅|✅|
-|Mini Game Heroes Skin Pack|❌|✅|
-|Mini Game Masters Skin Pack|❌|✅|
+|Mini Game Heroes Skin Pack|✅|✅|
+|Mini Game Masters Skin Pack|✅|✅|
 |Chinese Mythology Mash-up pack|❌|✅|
 |Fallout Mash-up pack|❌|[✖️](https://modrinth.com/resourcepack/fallout-mashup)|
 |Greek Mythology Mash-up pack|❌|✅|
