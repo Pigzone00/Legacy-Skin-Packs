@@ -239,6 +239,27 @@
             }
         ]
     },
+    "modern_skinpacks:super": {
+        "icon": "modern_skinpacks:textures/skinpack_icons/super.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "modern_skinpacks:skinpacks/super/superman.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/super/loislane.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/super/hawkgirl.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/super/mrterrific.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/super/greenlanterngg.cpmmodel"
+            }
+        ]
+    },
     "modern_skinpacks:mmx": {
         "icon": "modern_skinpacks:textures/skinpack_icons/mmx.png",
         "type": "skin",
