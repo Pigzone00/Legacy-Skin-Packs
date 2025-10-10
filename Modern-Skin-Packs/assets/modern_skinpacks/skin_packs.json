@@ -1267,5 +1267,56 @@
             "model":"modern_skinpacks:skinpacks/fauna/wolfm3.cpmmodel"
 	 }
       ]
+   },
+   "modern_skinpacks:jttw":{
+      "icon":"modern_skinpacks:textures/skinpack_icons/jttw.png",
+      "type":"skin",
+      "skins":[
+         {
+            "model":"modern_skinpacks:skinpacks/jttw/redboy.cpmmodel"
+	 },
+         {
+            "model":"modern_skinpacks:skinpacks/jttw/guanyin.cpmmodel"
+	 },
+         {
+            "model":"modern_skinpacks:skinpacks/jttw/blackwinddemon.cpmmodel"
+	 },
+         {
+            "model":"modern_skinpacks:skinpacks/jttw/bulldemonking.cpmmodel"
+	 },
+         {
+            "model":"modern_skinpacks:skinpacks/jttw/jadeemperor.cpmmodel"
+	 },
+         {
+            "model":"modern_skinpacks:skinpacks/jttw/palebonedemon.cpmmodel"
+	 },
+         {
+            "model":"modern_skinpacks:skinpacks/jttw/lordhundredeyes.cpmmodel"
+	 },
+         {
+            "model":"modern_skinpacks:skinpacks/jttw/scorpiondemon.cpmmodel"
+	 },
+         {
+            "model":"modern_skinpacks:skinpacks/jttw/ladyearthflow.cpmmodel"
+	 },
+         {
+            "model":"modern_skinpacks:skinpacks/jttw/monkeyking.cpmmodel"
+	 },
+         {
+            "model":"modern_skinpacks:skinpacks/jttw/princessironfan.cpmmodel"
+	 },
+         {
+            "model":"modern_skinpacks:skinpacks/jttw/friarsand.cpmmodel"
+	 },
+         {
+            "model":"modern_skinpacks:skinpacks/jttw/spiderdemon.cpmmodel"
+	 },
+         {
+            "model":"modern_skinpacks:skinpacks/jttw/xuanzang.cpmmodel"
+	 },
+         {
+            "model":"modern_skinpacks:skinpacks/jttw/monkpig.cpmmodel"
+	 }
+      ]
    }
 }
