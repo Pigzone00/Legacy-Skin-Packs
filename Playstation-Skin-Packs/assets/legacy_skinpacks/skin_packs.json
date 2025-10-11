@@ -2490,6 +2490,165 @@
             }
         ]
     },
+    "legacy_skinpacks:norse": {
+        "icon": "legacy_skinpacks:textures/skinpack_icons/norse.png",
+        "type": "mashup",
+        "skins": [
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/odin.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/frigg.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/thor.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/loki.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/baldur.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/heimdallr.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/tyr.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/eir.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/hildr.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/brynhildr.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/ratatoskr.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/austri.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/nordri.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/sudri.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/vestri.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/njord.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/ran.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/skadi.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/frostjotunn.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/surtr.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/sinmara.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/draugr.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/einherjar.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/hel.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/sol.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/mani.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/landvttir.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/freyja.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/freyr.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/ragnarlothbrok.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/thoratownhart.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/aslaug.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/sigurd.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/flokivilgerdarson.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/bjornironside.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/lagertha.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/rollo.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/bearberserker.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/wolfberserker.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/boarberserker.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/grendel.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/fafnir.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/fenrir.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/jormungand.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/gullinbursti.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/troll.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/ymir.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/norsevillager.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/shieldmaiden.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/berserker.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/norse/raider.cpmmodel"
+            }
+        ]
+    },
     "legacy_skinpacks:magic": {
         "icon": "legacy_skinpacks:textures/skinpack_icons/magic.png",
         "type": "skin",
