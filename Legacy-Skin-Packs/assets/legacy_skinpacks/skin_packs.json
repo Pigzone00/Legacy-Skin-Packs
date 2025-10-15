@@ -5163,6 +5163,138 @@
       {"model": "legacy_skinpacks:skinpacks/summer_of_arcade/officerdick.cpmmodel"}
     ]
   },
+    "legacy_skinpacks:smb": {
+        "icon": "legacy_skinpacks:textures/skinpack_icons/smb.png",
+        "type": "mashup",
+        "skins": [
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/mario.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/mariowithfludd.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/luigi.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/luigiwithpoltergust.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/peach.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/yoshi.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/bowser.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/toad.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/captaintoad.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/donkeykong.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/diddykong.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/daisy.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/wario.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/waluigi.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/peteypiranha.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/lemmy.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/wendy.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/morton.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/larry.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/iggy.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/roy.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/ludwig.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/rosalina.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/toadette.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/captaintoadette.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/birdo.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/drmario.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/kamek.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/koopa.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/shyguy.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/hammerbro.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/boomboom.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/pompom.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/kitsuneluigi.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/drybones.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/bowserjr.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/firemario.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/tanookimario.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/boomerangmario.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/propellermario.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/catmario.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/smb/catpeach.cpmmodel"
+            }
+        ]
+    },
     "legacy_skinpacks:skyrim": {
         "icon": "legacy_skinpacks:textures/skinpack_icons/skyrim.png",
         "type": "mashup",
