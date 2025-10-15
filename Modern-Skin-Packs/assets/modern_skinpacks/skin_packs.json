@@ -158,6 +158,27 @@
             }
         ]
     },
+   "modern_skinpacks:amm": {
+        "icon": "modern_skinpacks:textures/skinpack_icons/amm.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "modern_skinpacks:skinpacks/amm/steve.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/amm/garrett.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/amm/dawn.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/amm/henry.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/amm/natalie.cpmmodel"
+            }
+        ]
+    },
    "modern_skinpacks:bm": {
         "icon": "modern_skinpacks:textures/skinpack_icons/bm.png",
         "type": "skin",
@@ -247,16 +268,34 @@
                 "model": "modern_skinpacks:skinpacks/super/superman.cpmmodel"
             },
             {
+                "model": "modern_skinpacks:skinpacks/super/clarkkent.cpmmodel"
+            },
+            {
                 "model": "modern_skinpacks:skinpacks/super/loislane.cpmmodel"
             },
             {
+                "model": "modern_skinpacks:skinpacks/super/lexluthor.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/super/engineer.cpmmodel"
+            },
+            {
                 "model": "modern_skinpacks:skinpacks/super/hawkgirl.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/super/metamorpho.cpmmodel"
             },
             {
                 "model": "modern_skinpacks:skinpacks/super/mrterrific.cpmmodel"
             },
             {
                 "model": "modern_skinpacks:skinpacks/super/greenlanterngg.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/super/kryptonianservicerobot.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/super/ultraman.cpmmodel"
             }
         ]
     },
@@ -305,6 +344,165 @@
             },
             {
                 "model": "modern_skinpacks:skinpacks/mmx/bass.cpmmodel"
+            }
+        ]
+    },
+    "modern_skinpacks:norse": {
+        "icon": "modern_skinpacks:textures/skinpack_icons/norse.png",
+        "type": "mashup",
+        "skins": [
+            {
+                "model": "modern_skinpacks:skinpacks/norse/odin.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/frigg.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/thor.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/loki.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/baldur.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/heimdallr.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/tyr.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/eir.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/hildr.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/brynhildr.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/ratatoskr.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/austri.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/nordri.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/sudri.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/vestri.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/njord.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/ran.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/skadi.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/frostjotunn.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/surtr.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/sinmara.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/draugr.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/einherjar.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/hel.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/sol.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/mani.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/landvttir.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/freyja.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/freyr.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/ragnarlothbrok.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/thoratownhart.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/aslaug.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/sigurd.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/flokivilgerdarson.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/bjornironside.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/lagertha.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/rollo.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/bearberserker.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/wolfberserker.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/boarberserker.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/grendel.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/fafnir.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/fenrir.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/jormungand.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/gullinbursti.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/troll.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/ymir.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/norsevillager.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/shieldmaiden.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/berserker.cpmmodel"
+            },
+            {
+                "model": "modern_skinpacks:skinpacks/norse/raider.cpmmodel"
             }
         ]
     },
