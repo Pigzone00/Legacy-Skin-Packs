@@ -1765,6 +1765,144 @@
          }
       ]
    },
+    "legacy_skinpacks:fallout": {
+        "icon": "legacy_skinpacks:textures/skinpack_icons/fallout.png",
+        "type": "mashup",
+        "skins": [
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/vaultboy.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/vaultgirl.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/albertcolepipboy.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/albertcole.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/nataliadubrovhskypipboy.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/nataliadubrovhsky.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/maxstonepipboy.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/maxstone.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/chitsa.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/mingan.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/narg.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/hakunin.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/harold.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/lonewandererfemale.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/lonewanderermale.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/threedog.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/butchdeloria.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/fawkes.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/moirabrown.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/james.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/brotherhoodofsteelpaladin.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/colonelautumn.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/bettystanislausbraun.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/clover.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/starpaladincross.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/solesurvivorfemale.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/solesurvivormale.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/nickvalentine.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/prestongarvey.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/silvershroud.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/johnhancock.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/piperwright.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/cait.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/paladindanse.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/mechanist.cpmmodel"
+            },			
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/supermutant.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/raiderfallout3.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/raiderfallout4.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/janglesthemoonmonkey.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/conradkellogg.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/tinkertom.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/grognakthebarbarianmale.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/grognakthebarbarianfemale.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/bosco.cpmmodel"
+            }
+        ]
+    },
    "legacy_skinpacks:festive_mashup": {
         "icon": "legacy_skinpacks:textures/skinpack_icons/festive_mashup.png",
         "type": "mashup",

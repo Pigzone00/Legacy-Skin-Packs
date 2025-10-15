@@ -2136,6 +2136,144 @@
          }
       ]
    },
+    "legacy_skinpacks:fallout": {
+        "icon": "legacy_skinpacks:textures/skinpack_icons/fallout.png",
+        "type": "mashup",
+        "skins": [
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/vaultboy.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/vaultgirl.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/albertcolepipboy.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/albertcole.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/nataliadubrovhskypipboy.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/nataliadubrovhsky.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/maxstonepipboy.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/maxstone.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/chitsa.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/mingan.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/narg.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/hakunin.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/harold.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/lonewandererfemale.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/lonewanderermale.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/threedog.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/butchdeloria.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/fawkes.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/moirabrown.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/james.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/brotherhoodofsteelpaladin.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/colonelautumn.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/bettystanislausbraun.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/clover.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/fallout/starpaladincross.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/solesurvivorfemale.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/solesurvivormale.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/nickvalentine.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/prestongarvey.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/silvershroud.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/johnhancock.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/piperwright.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/cait.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/paladindanse.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/mechanist.cpmmodel"
+            },			
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/supermutant.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/raiderfallout3.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/raiderfallout4.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/janglesthemoonmonkey.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/conradkellogg.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/tinkertom.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/grognakthebarbarianmale.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/grognakthebarbarianfemale.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/fallout/bosco.cpmmodel"
+            }
+        ]
+    },
    "legacy_skinpacks:festive_mashup": {
         "icon": "legacy_skinpacks:textures/skinpack_icons/festive_mashup.png",
         "type": "mashup",
@@ -2513,6 +2651,180 @@
       {"model": "legacy_skinpacks:skinpacks/halloween_charity/zombielonestarronimogames.cpmmodel"}
     ]
   },
+    "legacy_skinpacks:msc": {
+        "icon": "legacy_skinpacks:textures/skinpack_icons/msc.png",
+        "type": "mashup",
+        "skins": [
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/masterchiefhalo4.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/cortana.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/rampantcortana.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/sergeantjohnson.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/captainkeyes.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/commanderkeyes.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/doctorhalsey.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/lordhood.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/captainthomaslasky.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/corbulocadet.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/arbiter.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/spartannoblesix.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/spartancartera259.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/spartankatb320.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/spartanjorge052.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/spartanemilea239.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/spartanjuna266.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/rookie.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/librarian.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/roland.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/unscmarine.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/spartancommanderpalmer.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/343guiltyspark.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/gruntimperial.cpmmodel"
+            },
+            {
+                "model": "legacy_skinpacks:skinpacks/msc/jackal.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/elite.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/drone.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/didact.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/brutecaptain.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/brutechieftan.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/brutehonorguard.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/julmdama.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/elitecommander.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/hereticelite.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/elitehonorguard.cpmmodel"
+            },			
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/hunter.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/tartarus.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/geklhar.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/shipmaster.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/misterchief.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/masterchiefhalo5guardians.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/spartanbuckhalo5guardians.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/spartanfredhalo5guardians.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/spartankellyhalo5guardians.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/spartanlindahalo5guardians.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/spartanlockehalo5guardians.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/spartantanakahalo5guardians.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/spartanvalehalo5guardians.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/spartancommanderlaurette.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/escharum.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/jegardomnai.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/anniversarymasterchief.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/combatevolvedmasterchief.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/infinitemasterchief.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/echo216pilot.cpmmodel"
+            },
+			{
+                "model": "legacy_skinpacks:skinpacks/msc/spartanyoroi.cpmmodel"
+            }		
+        ]
+    },
   "legacy_skinpacks:minecon_2017": {
     "icon": "legacy_skinpacks:textures/skinpack_icons/minecon_2017.png",
     "type": "skin",
